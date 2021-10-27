@@ -16,6 +16,7 @@
 		DDC2EC922727156900A66F55 /* FavoriteListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC2EC912727156900A66F55 /* FavoriteListVC.swift */; };
 		DDC2EC9427271AE000A66F55 /* GHButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC2EC9327271AE000A66F55 /* GHButton.swift */; };
 		DDC2EC9627271DD100A66F55 /* GHTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC2EC9527271DD100A66F55 /* GHTextField.swift */; };
+		DDDA5CEC2729F53F003CE2B3 /* FollowersListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDDA5CEB2729F53F003CE2B3 /* FollowersListVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		DDC2EC912727156900A66F55 /* FavoriteListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteListVC.swift; sourceTree = "<group>"; };
 		DDC2EC9327271AE000A66F55 /* GHButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHButton.swift; sourceTree = "<group>"; };
 		DDC2EC9527271DD100A66F55 /* GHTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GHTextField.swift; sourceTree = "<group>"; };
+		DDDA5CEB2729F53F003CE2B3 /* FollowersListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowersListVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				DDC2EC7D2726882400A66F55 /* SceneDelegate.swift */,
 				DDC2EC9527271DD100A66F55 /* GHTextField.swift */,
 				DDC2EC8F2727153500A66F55 /* SearchVC.swift */,
+				DDDA5CEB2729F53F003CE2B3 /* FollowersListVC.swift */,
 				DDC2EC912727156900A66F55 /* FavoriteListVC.swift */,
 				DDC2EC9327271AE000A66F55 /* GHButton.swift */,
 				DDC2EC812726882400A66F55 /* Main.storyboard */,
@@ -148,6 +151,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDC2EC922727156900A66F55 /* FavoriteListVC.swift in Sources */,
+				DDDA5CEC2729F53F003CE2B3 /* FollowersListVC.swift in Sources */,
 				DDC2EC9427271AE000A66F55 /* GHButton.swift in Sources */,
 				DDC2EC9627271DD100A66F55 /* GHTextField.swift in Sources */,
 				DDC2EC902727153500A66F55 /* SearchVC.swift in Sources */,
